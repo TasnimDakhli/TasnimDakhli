@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on a traffic management web application; <br>
 - 🌱 I’m currently learning Angular , SpringBootn, NestJS , MongoDB ( told you I LOVE to learn😄 );<br>
 <img src="https://github.com/TasnimDakhli/TasnimDakhli/blob/b9c405637322121de4e16a8ba36bd319be312b64/Welcome%20To%20My%20Github%20(5).png" height="400" width="400" align="right">
+
 - 🤔 I’m looking for help with Data Science ;<br>
 - 💬 Ask me about anything, I will be happy to help;<br>
 - 😄 Pronouns: She/Her ;<br>
