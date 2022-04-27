@@ -2,8 +2,8 @@
 
 <h3 align="center">Web Developer | Software Engineering student</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tasnim-dakhli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tasnim-dakhli/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tasnim.dakhli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tasnim.dakhli1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tasnim-dakhli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tasnim-dakhli/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tasnim.dakhli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tasnim.dakhli1" height="30" width="40" /></a>
 <a href="mailto: tasnim.dakhli@insat.ucar.tn" target="blank"><img align="center" src="https://github.com/TasnimDakhli/TasnimDakhli/blob/b9c405637322121de4e16a8ba36bd319be312b64/GMAIL.png" alt="mailto: tasnim.dakhli@insat.ucar.tn" height="30" width="40" /></a>
 </p>
 
