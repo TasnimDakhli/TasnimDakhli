@@ -1,6 +1,6 @@
 ### <h2 align="center"> Hello World 👋 my name is Tasnim </h2>
 
-<h3 align="center">Web Developer | Software Engineering student</h3>
+<h3 align="center">Software Engineering student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/tasnim-dakhli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tasnim-dakhli/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tasnim.dakhli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tasnim.dakhli1" height="30" width="40" /></a>
