@@ -10,8 +10,6 @@
 - 🔭 I’m a software Engineering student at INSAT and a TJSP scholar at LCSC  <br>
 - 🌱 I’m currently learning DevOps;
 <img src="https://github.com/TasnimDakhli/TasnimDakhli/blob/b9c405637322121de4e16a8ba36bd319be312b64/Welcome%20To%20My%20Github%20(5).png" height="400" width="400" align="right">
-
-- 🤔 I’m looking for help with DevOps ;<br>
 - 💬 Ask me about anything, I will be happy to help;<br>
 - 😄 Pronouns: She/Her ;<br>
 - ⚡ Fun fact: I LOVE to read 📖 ;<br>
